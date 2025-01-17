@@ -1,0 +1,33 @@
+Relation Type,Description (Azerbaijani),Group
+inherited_from,Sözün başqa bir dildən dəyişiklik olmadan miras alınmasını ifadə edir.,Mənşə və yaranma əlaqələri
+borrowed_from,Sözün başqa bir dildən birbaşa götürülməsini bildirir.,Mənşə və yaranma əlaqələri
+derived_from,"Sözün mənşəyinin dəqiq müəyyən edilmədiyi, lakin bir dildən alındığını ümumi şəkildə göstərir.",Mənşə və yaranma əlaqələri
+learned_borrowing_from,Sözün 'qeyri-adi' yollarla başqa dildən götürülməsini bildirir.,Mənşə və yaranma əlaqələri
+semi_learned_borrowing_from,Sözün götürülüb qismən fonetik və ya morfoloji dəyişikliklərə uğradığını göstərir.,Mənşə və yaranma əlaqələri
+orthographic_borrowing_from,"Sözün yalnız yazılış formasının alındığını ifadə edir, tələffüz eyni olmaya bilər.",Mənşə və yaranma əlaqələri
+unadapted_borrowing_from,Sözün götürüldükdən sonra heç bir fonetik və ya qrammatik dəyişiklik edilmədiyini bildirir.,Mənşə və yaranma əlaqələri
+has_root,Sözün nəzəri bir ata dilindəki kök formasını göstərir.,Kök və quruluş əlaqələri
+has_prefix,Sözün bir prefiks əsasında formalaşdığını göstərir.,Kök və quruluş əlaqələri
+has_prefix_with_root,Prefiksin kök sözlə birləşdiyi vəziyyəti ifadə edir.,Kök və quruluş əlaqələri
+has_suffix,Sözün bir sufiks ilə formalaşdığını bildirir.,Kök və quruluş əlaqələri
+has_suffix_with_root,Sufiksin kök sözlə birləşməsini göstərir.,Kök və quruluş əlaqələri
+has_confix,"Sözün həm prefiks, həm də sufiks əsasında formalaşdığını bildirir.",Kök və quruluş əlaqələri
+has_affix,Prefiks/sufiks/kofiks ilə ümumi birləşməni ifadə edir.,Kök və quruluş əlaqələri
+compound_of,Sözün mürəkkəb söz olduğunu və iki ya daha çox elementdən ibarət olduğunu göstərir.,Kök və quruluş əlaqələri
+back-formation_from,Sözün mövcud bir sözdən şəkilçi çıxarılması ilə formalaşdığını bildirir.,Kök və quruluş əlaqələri
+doublet_with,"İki sözün eyni mənşəyə malik olduğunu, lakin müxtəlif formalarda ortaya çıxdığını bildirir.",Bənzərlik və paralellik əlaqələri
+is_onomatopoeic,Sözün bir səslə əlaqəli olduğunu göstərir (onomatopeya).,Bənzərlik və paralellik əlaqələri
+calque_of,Sözün başqa dildən birbaşa tərcümə edildiyini bildirir.,Tərcümə və mənimsəmə əlaqələri
+semantic_loan_of,Sözün başqa bir dildə mövcud olan mənanın alınmasını bildirir.,Tərcümə və mənimsəmə əlaqələri
+named_after,Sözün bir şəxs və ya yerdən götürülüb adlandırıldığını göstərir (epoqrafiya).,Tərcümə və mənimsəmə əlaqələri
+phono-semantic_matching_of,"İki sözün həm səs, həm də mənasına görə uyğun gəldiyini ifadə edir.",Tərcümə və mənimsəmə əlaqələri
+etymologically_related_to,"İki sözün mənşə baxımından əlaqəli olduğunu bildirir, lakin dəqiq bir kontekst vermir.",Bənzərlik və paralellik əlaqələri
+blend_of,İki sözün birləşməsi ilə yaranan sözləri bildirir.,Bənzərlik və paralellik əlaqələri
+clipping_of,Sözün bir hissəsinin qısaldılaraq formalaşdığını bildirir.,Qısaldılma və formalaşdırma əlaqələri
+abbreviation_of,Sözün yalnız yazılı şəkildə qısaldıldığını göstərir.,Qısaldılma və formalaşdırma əlaqələri
+initialism_of,Sözün baş hərflər əsasında formalaşdığını bildirir.,Qısaldılma və formalaşdırma əlaqələri
+group_affix_root,"Müxtəlif affiks (prefiks, sufiks və s.) qruplarını birləşdirir.",Qısaldılma və formalaşdırma əlaqələri
+group_related_root,İki ya daha çox əlaqəli sözü qruplaşdırır.,Digər əlaqələr
+group_derived_root,"Eyni mənşəyə sahib, bir-biri ilə əlaqəli sözlərin ardıcıl zəncirini göstərir.",Digər əlaqələr
+cognate_of,"İki və ya daha çox sözün birbaşa mənşə əlaqəsi olmasa da, oxşar səsləndiyini və ya oxşar mənaya malik olduğunu bildirir. Bu sözlər ya eyni ata dilindən fərqli yollarla inkişaf etmiş ola bilər, ya da dillərarası təsirlərlə bir-birinə yaxınlaşmış ola bilər.",Bənzərlik və paralellik əlaqələri
+
